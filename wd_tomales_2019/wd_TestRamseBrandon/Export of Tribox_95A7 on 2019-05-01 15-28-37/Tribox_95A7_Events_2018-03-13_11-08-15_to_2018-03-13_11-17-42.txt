@@ -1,0 +1,18 @@
+DateTime [yyyy-mm-dd hh:mm:ss];Event [Text];Description [Text];Comment [Text]
+2018-03-13 11:08:15;Network;Connected to TBRemoteAdmin
+2018-03-13 11:12:41;LISA_3072;Timeout for ReadFileRecord File=0 Start=0 Length=2
+2018-03-13 11:12:53;LISA_3072;Timeout for ReadFileRecord File=0 Start=0 Length=2
+2018-03-13 11:13:01;LISA_3072;Timeout for ReadFileRecord File=0 Start=0 Length=2
+2018-03-13 11:13:08;LISA_3072;Timeout for ReadFileRecord File=0 Start=0 Length=2
+2018-03-13 11:13:25;LISA_3072;Timeout for ReadFileRecord File=0 Start=0 Length=2
+2018-03-13 11:13:32;LISA_3072;Timeout for Writing to measurement register
+2018-03-13 11:13:37;LISA_3072;Timeout for read register 1000 to 1011
+2018-03-13 11:15:03;LISA_3072;Timeout for Writing to measurement register
+2018-03-13 11:15:09;LISA_3072;Timeout for read register 1000 to 1011
+2018-03-13 11:15:36;LISA_3072;Timeout for ReadFileRecord File=0 Start=0 Length=2
+2018-03-13 11:16:05;LISA_3072;Exception on CMD_GETMEASDATA: Illegal data address
+2018-03-13 11:16:17;LISA_3072;Timeout for ReadFileRecord File=0 Start=0 Length=2
+2018-03-13 11:16:26;LISA_3072;Timeout for ReadFileRecord File=0 Start=0 Length=2
+2018-03-13 11:16:41;LISA_3072;Timeout for Writing to measurement register
+2018-03-13 11:16:46;LISA_3072;Timeout for read register 1000 to 1011
+2018-03-13 11:17:42;LISA_3072;Timeout for Writing to measurement register

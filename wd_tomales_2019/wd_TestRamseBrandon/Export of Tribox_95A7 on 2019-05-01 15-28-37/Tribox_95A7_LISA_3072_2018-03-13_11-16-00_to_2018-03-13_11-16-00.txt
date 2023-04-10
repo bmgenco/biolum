@@ -1,0 +1,2 @@
+DateTime [yyyy-mm-dd hh:mm:ss];SAC254 [1/m];CODeq [mg/l];BODeq [mg/l];TOCeq [mg/l];Trans254 [%];Trans530 [%];Comment [Text]
+2018-03-13 11:16:00;-NAN;-NAN;-NAN;-NAN;-NAN;-NAN

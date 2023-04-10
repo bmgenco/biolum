@@ -1,0 +1,21 @@
+Sample points: 
+z:\Personal\Brandon\Dissertation\tomales\field_site_data\trimble_data_tomales_bay\june_2019\tom\Point_generic.shp
+
+Station points: 
+Z:\Personal\Brandon\GIS\tomales bay\noaa chart\shape_file\US5CA96M\SBDARE-point.shp
+
+Bottom countors:
+Z:\Personal\Brandon\GIS\tomales bay\noaa chart\shape_file\US5CA96M\DEPCNT-line.shp
+
+Coastline:
+Z:\Personal\Brandon\GIS\tomales bay\noaa chart\shape_file\US5CA96M\COALNE-line.shp
+
+lidar:
+Z:\Personal\Brandon\GIS\tomales bay\lidar_dem_1984.tif
+
+NOAA offshore bathymetery
+Z:\Personal\Brandon\GIS\tomales bay\rectag_subset_bathy.tif
+
+Terrain_dem:
+Z:\Personal\Brandon\GIS\tomales bay\tomales_dem\Job466317_CA2009_coastal_DEM_000_000.tif
+
